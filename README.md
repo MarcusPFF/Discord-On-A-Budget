@@ -1,5 +1,5 @@
 # INFO
-Discord-On-A-Budget is a Local Networking chat server where clients can interact with eachother... on the same localhost. 
+Discord-On-A-Budget is a Local Networking chat server where clients can interact with eachother... on the same localhost.
 
 # Commands
 #LEAVE, #CONN
